@@ -1,26 +1,45 @@
-¡Hola! 👋 Soy RAUL MAURICIO UÑATE, un desarrollador apasionado por crear espectaculares Software y soluciones tecnológicas. Me especializo en el desarrollo de aplicaciones utilizando las siguientes tecnologías:
+# Hello there! 👋 I'm RAUL MAURICIO UÑATE, a passionate developer creating amazing software and technological solutions. I specialize in application development using the following technologies:
 
-🚀 Laravel | PHP | JavaScript | Vue JS | React JS | React Native | Ionic | AutoIt | etc...
+🚀 Laravel | PHP | JavaScript | Vue.js | React.js | React Native | Ionic | AutoIt | etc...
 
-## Contribuciones.
+## Contributions
 
-Aquí encontrarás una lista de algunas de mis librerias destacadas:
+Here's a list of my libraries:
 
-🔥 [LARAVEL HELPERS](https://github.com/rmunate/LaravelHelpers) 
-  - Creación y uso estándar de ayudantes dentro del marco de Laravel a través de clases, una forma simple, eficiente y elegante de ejecutar los métodos propios de tu aplicación desde cualquier clase o vista.
+🔥 [SPELLNUMBERS](https://github.com/rmunate/LaravelHelpers)
+  - Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension for seamless conversion. This library allows you to convert numbers to words in multiple languages and also obtain currency format values based on the selected language.
 
-🔥 [PHP2JS](https://github.com/rmunate/PHP2JS) 
-  - Lee variables PHP LARAVEL en un archivo JAVASCRIPT externo sin necesidad de solicitudes AJAX, FETCH o AXIOS, usa las mismas variables devueltas por el controlador y definidas en la vista Blade, así como algunos valores adicionales que simplificarán tú trabajo. Biblioteca perfecta para monolitos con Blade.
+🔥 [LARAVEL HELPERS](https://github.com/rmunate/LaravelHelpers)
+  - Create and use standard helpers within the Laravel framework through classes, providing a simple, efficient, and elegant way to execute your application's methods from any class or view.
 
-🔥 [SQL SERVER LITE](https://github.com/rmunate/SQLServerLite) 
-  - La mejor librería de conexión y manejo de SQL Server desde aplicaciones construidas en PHP nativo o desde Laravel. Suministra una gran cantidad de métodos para tratar los datos devueltos por el servidor.
+🔥 [PHP2JS](https://github.com/rmunate/PHP2JS)
+  - Read Laravel PHP variables in an external JavaScript file without the need for AJAX, FETCH, or AXIOS requests. Use the same variables returned by the controller and defined in the Blade view, along with additional values that simplify your work. A perfect library for Blade-based monoliths.
 
-## Contacto
+🔥 [EASY DATATABLE](https://github.com/rmunate/EasyDataTable)
+  - EasyDataTable was born out of the need to standardize the backend for different commonly used DataTables in our Laravel projects. This package offers a convenient way to work with the query builder integrated into the Laravel framework to quickly generate tables with all the capabilities required by DataTables.
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres saludarme, contactame a través de los siguientes medios:
+🔥 [SQL SERVER LITE](https://github.com/rmunate/SQLServerLite)
+  - The best SQL Server connection and handling library for applications built in native PHP, and an alternative for Laravel. It provides a plethora of methods for processing data returned by the server.
+
+🔥 [AgentDetection](https://github.com/rmunate/AgentDetection)
+  - This simple library allows you to obtain specific details about the connecting agent, enabling you to enhance the user experience based on connection data. For example, if a mobile connection is detected, you can prompt the user to download the mobile app from the PlayStore. Similarly, you can offer a more personalized experience for Android users or differentiate options, menus, and other elements for desktop or mobile users.
+
+🔥 [LaravelConfigRuntime](https://github.com/rmunate/LaravelConfigRuntime)
+  - The LaravelRuntime library allows you to modify Laravel configuration values at runtime. Note that these changes won't affect values in the .env file; they only apply during script execution.
+
+🔥 [PHPConfigRuntime](https://github.com/rmunate/PHPConfigRuntime)
+  - The PhpRunTime library provides methods to manage PHP configuration at runtime. It enables you to set, get, and restore configuration options, as well as check their existence and status.
+
+🔥 [InfoServer](https://github.com/rmunate/InfoServer)
+  - This library lets you query all information related to existing server-side variables, values, and configurations (Server variables, Environment variables, PHP values, and Configurations). It provides an easy and convenient way to work with server data.
+
+## Contact
+
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me through the following means:
 
 📧 Email: raulmauriciounate@gmail.com
 
-¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles.
-Siéntete libre de explorar mis repositorios y colaborar en ellos.
-¡Creemos soluciones increibles juntos! 🎉
+Thanks for visiting my profile! I hope you find my projects interesting and useful.
+
+Feel free to explore my repositories and collaborate on them.
+Let's create amazing solutions together! 🎉
