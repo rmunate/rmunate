@@ -6,7 +6,7 @@
 
 Here's a list of my libraries:
 
-🔥 [SPELLNUMBERS](https://github.com/rmunate/LaravelHelpers)
+🔥 [SPELLNUMBERS](https://github.com/rmunate/SpellNumber)
   - Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension for seamless conversion. This library allows you to convert numbers to words in multiple languages and also obtain currency format values based on the selected language.
 
 🔥 [LARAVEL HELPERS](https://github.com/rmunate/LaravelHelpers)
