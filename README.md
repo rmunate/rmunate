@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm RAUL MAURICIO UÑATE, a passionate developer creating amazing software and technological solutions. I specialize in application development using the following technologies:
+# Hello there! 👋 I'm RAUL MAURICIO UÑATE, an active contributor to the Laravel Framework 👨‍💻 and a passionate developer creating amazing software and technological solutions. I specialize in application development using the following technologies:
 
 🚀 Laravel | PHP | JavaScript | Vue.js | React.js | React Native | Ionic | AutoIt | etc...
 
