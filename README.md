@@ -1,38 +1,29 @@
-# Greetings! 👋 I'm Raúl Mauricio Uñate
-I'm an active Laravel Framework 👨‍💻 contributor and a passionate developer dedicated to creating exceptional software and innovative technological solutions. My expertise lies in application development, and I specialize in utilizing the following technologies:
+# Hello, 👋 I'm Raul Mauricio Uñate.
 
-🚀 Laravel | PHP | JavaScript | Vue.js | React.js | React Native | Ionic | AutoIt | etc...
+Full Stack Software Developer, contributor to various open-source packages, CMS, and frameworks like Laravel. I enjoy crafting open-source solutions and contributing to ideas that empower developers worldwide.
 
-## Contributions
+I'm passionate about challenges, crafting high-performance solutions. 
 
-Here's a list of my libraries:
+## Skills
 
-🔥 [SPELLNUMBERS](https://github.com/rmunate/SpellNumber)
-  - Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension for seamless conversion. This library allows you to convert numbers to words in multiple languages and also obtain currency format values based on the selected language.
-
-🔥 [LARAVEL HELPERS](https://github.com/rmunate/LaravelHelpers)
-  - Create and use standard helpers within the Laravel framework through classes, providing a simple, efficient, and elegant way to execute your application's methods from any class or view.
-
-🔥 [PHP2JS](https://github.com/rmunate/PHP2JS)
-  - Read Laravel PHP variables in an external JavaScript file without the need for AJAX, FETCH, or AXIOS requests. Use the same variables returned by the controller and defined in the Blade view, along with additional values that simplify your work. A perfect library for Blade-based monoliths.
-
-🔥 [EASY DATATABLE](https://github.com/rmunate/EasyDataTable)
-  - EasyDataTable was born out of the need to standardize the backend for different commonly used DataTables in our Laravel projects. This package offers a convenient way to work with the query builder integrated into the Laravel framework to quickly generate tables with all the capabilities required by DataTables.
-
-🔥 [SQL SERVER LITE](https://github.com/rmunate/SQLServerLite)
-  - The best SQL Server connection and handling library for applications built in native PHP, and an alternative for Laravel. It provides a plethora of methods for processing data returned by the server.
-
-🔥 [AgentDetection](https://github.com/rmunate/AgentDetection)
-  - This simple library allows you to obtain specific details about the connecting agent, enabling you to enhance the user experience based on connection data. For example, if a mobile connection is detected, you can prompt the user to download the mobile app from the PlayStore. Similarly, you can offer a more personalized experience for Android users or differentiate options, menus, and other elements for desktop or mobile users.
-
-🔥 [LaravelConfigRuntime](https://github.com/rmunate/LaravelConfigRuntime)
-  - The LaravelRuntime library allows you to modify Laravel configuration values at runtime. Note that these changes won't affect values in the .env file; they only apply during script execution.
-
-🔥 [PHPConfigRuntime](https://github.com/rmunate/PHPConfigRuntime)
-  - The PhpRunTime library provides methods to manage PHP configuration at runtime. It enables you to set, get, and restore configuration options, as well as check their existence and status.
-
-🔥 [GlobalDataWrapper](https://github.com/rmunate/GlobalDataWrapper)
-  - This library lets you query all information related to existing server-side variables, values, and configurations (Server variables, Environment variables, PHP values, and Configurations). It provides an easy and convenient way to work with server data.
+![Laravel](https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![AutoIt](https://img.shields.io/badge/-AutoIt-1C3552?style=for-the-badge&logo=autoit&logoColor=white)
+![VB.net](https://img.shields.io/badge/-VB.net-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Contact
 
