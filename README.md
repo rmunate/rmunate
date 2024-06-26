@@ -24,6 +24,11 @@ I'm passionate about challenges, crafting high-performance solutions.
 ![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Contact
 
