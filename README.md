@@ -30,7 +30,11 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmunate&show_icons=true&theme=radical)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rmunate&theme=light)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmunate&show_icons=true&theme=light)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmunate&layout=compact&theme=light)
 
 ## Contact
 
