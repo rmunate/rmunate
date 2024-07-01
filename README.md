@@ -1,8 +1,6 @@
 # Hello, 👋 I'm Raul Mauricio Uñate.
 
-Full Stack Software Developer, contributor to various open-source packages, CMS, and frameworks like Laravel. I enjoy crafting open-source solutions and contributing to ideas that empower developers worldwide.
-
-I'm passionate about challenges, crafting high-performance solutions. 
+🚀 **Full Stack Software Developer** | Open Source Contributor | Crafting High-Performance Solutions
 
 ## Skills
 
@@ -30,15 +28,16 @@ I'm passionate about challenges, crafting high-performance solutions.
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmunate&show_icons=true&theme=radical)
+
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me through the following means:
+📧 **Email:** raulmauriciounate@gmail.com
 
-📧 Email: raulmauriciounate@gmail.com
+Thanks for visiting my profile! I'm passionate about crafting open-source solutions and contributing to developer empowerment worldwide.
 
-Thanks for visiting my profile! I hope you find my projects interesting and useful.
-
-Feel free to explore my repositories and collaborate on them.
-Let's create amazing solutions together! 🎉
+Feel free to explore my repositories and collaborate on them. Let's create amazing solutions together! 🎉
 
 [![Become a Sponsor](https://img.shields.io/badge/-Become%20a%20Sponsor-blue?style=for-the-badge&logo=github)](https://github.com/sponsors/rmunate)
