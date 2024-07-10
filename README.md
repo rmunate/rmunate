@@ -4,6 +4,8 @@
 
 ## Skills
 
+Here is the updated list with Xamarin and SQLite included:
+
 ![Laravel](https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +23,7 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
