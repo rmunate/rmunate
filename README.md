@@ -4,8 +4,6 @@
 
 ## Skills
 
-Here is the updated list with Xamarin and SQLite included:
-
 ![Laravel](https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
