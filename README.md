@@ -17,6 +17,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/-Babylon.js-BA4AFF?style=for-the-badge&logo=babylonjs&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/-AutoIt-1C3552?style=for-the-badge&logo=autoit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![VB.net](https://img.shields.io/badge/-VB.net-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
