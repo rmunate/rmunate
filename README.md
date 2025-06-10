@@ -1,6 +1,13 @@
-# Hello, 👋 I'm Raul Mauricio Uñate.
+# Hello World! 👋 I'm Raúl Mauricio Uñate
+🚀 Software Development Specialist | Creator of Orionis Framework | Open Source Contributor
 
-🚀 **Full Stack Software Developer** | Open Source Contributor | Crafting High-Performance Solutions
+## 🌟 About Me
+I’m a passionate software developer with expertise across multiple technologies. I love contributing to open-source ecosystems and creating tools that empower fellow developers.
+
+Key achievements:
+> 🛠️ Creator of Orionis Framework — A modern, opinionated Python framework
+
+> 🌍 Active contributor to various open-source packages
 
 ## Skills
 
