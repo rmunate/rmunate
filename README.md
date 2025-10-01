@@ -17,6 +17,8 @@ Key achievements:
 ![wxPython](https://img.shields.io/badge/-wxPython-FF7200?style=for-the-badge&logo=python&logoColor=white)
 ![tkinter](https://img.shields.io/badge/-tkinter-FFCD3D?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Orionis](https://img.shields.io/badge/-Orionis_Framework-FF4500?style=for-the-badge&logo=python&logoColor=white)
 ![VBScript](https://img.shields.io/badge/-VBScript-00BFFF?style=for-the-badge&logo=windows&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -37,9 +39,12 @@ Key achievements:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### GitHub Stats
 
